@@ -1,0 +1,14 @@
+{
+  "name": "callback-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "author": "Charaka <charaka.g@insighture.com>",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4"
+  }
+}
